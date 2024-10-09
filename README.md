@@ -1,4 +1,4 @@
-# Car Parking Management System
+# Vehicle-Parking-System
 
 ## Overview
 The Car Parking Management System is a C++ console application designed to manage a car parking facility. It provides functionalities for parking cars, viewing car details, checking expenses, and removing cars from the parking lot.

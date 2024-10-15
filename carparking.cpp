@@ -417,7 +417,6 @@ int main()
 
         case 5:
             cout << endl;
-            cout << " CREATED BY : Aman Kumar Singh";
             cout << endl
                  << endl;
             cout << "---------------------------------------------------";
